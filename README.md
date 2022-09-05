@@ -10,5 +10,3 @@
 - 💬 저에 대해 궁금하시다면 아래의 이메일로 연락주세요.
 
 - 📫 연락 방법 : jpp901220@gmail.com
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
